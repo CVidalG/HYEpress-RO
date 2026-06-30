@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "H-separator"
+    },
+    {
+      "id": 1,
+      "name": "V-Separator"
+    },
+    {
+      "id": 2,
+      "name": "Zone"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

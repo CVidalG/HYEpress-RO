@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Box"
+    },
+    {
+      "id": 1,
+      "name": "Marginalia"
+    },
+    {
+      "id": 2,
+      "name": "MetaData"
+    },
+    {
+      "id": 3,
+      "name": "PageNumber"
+    },
+    {
+      "id": 4,
+      "name": "Paragraph"
+    },
+    {
+      "id": 5,
+      "name": "RunningTitle"
+    },
+    {
+      "id": 6,
+      "name": "Signature"
+    },
+    {
+      "id": 7,
+      "name": "Title"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
